@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-portfolio",
-  "description": "Playful & Colorful One-Page website with Parallax effect powered by react-spring, TailwindCSS.",
+  "name": "shellyeah",
+  "description": "One-Page website with Parallax effect powered by react-spring, TailwindCSS.",
   "version": "3.0.0",
   "author": "shelley",
   "license": "MIT",
@@ -56,11 +56,11 @@
     "prettier": "^1.17.1"
   },
   "repository": {
-    "url": "https://shelleycavaness.github.io/gatbsy",
+    "url": "https://shelleycavaness.github.io/improved-journey",
     "type": "git"
   },
   "bugs": {
-    "url": "https://shelleycavaness.github.io/gatbsy/issuses"
+    "url": "https://shelleycavaness.github.io/improved-journey/issuses"
   },
-  "homepage": "https://shelleycavaness.github.io/gatbsy"
+  "homepage": "https://shelleycavaness.github.io/improved-journey"
 }
